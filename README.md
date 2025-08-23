@@ -3,12 +3,16 @@
 
 # Hi there, I'm Abhinav 👋
 
-Aspiring **Backend Developer** passionate about building robust and scalable applications using **Python**.
+🚀 Aspiring Data Analyst | Python | SQL | Excel | Data Visualization
+     I’m passionate about transforming data into actionable insights that drive decision-making. With a strong foundation in Python, SQL, and Data Analysis techniques, I enjoy exploring datasets, uncovering              patterns, and presenting results in a clear and impactful way.
 
-- 🌱 Currently exploring **Flask** and **Django** to deepen my backend expertise
-- 🧑‍💻 Actively solving coding challenges and working on projects to enhance my skills
-- ⚽ Football enthusiast and always up for a good match!
-- 💡 Striving to become a dedicated code enthusiast
+🛠️ Skills & Tools
+
+Programming & Scripting: Python (Pandas, NumPy, Matplotlib)
+Databases: SQL (MySQL, PostgreSQL, MS SQL Server)
+Data Visualization: Power BI, Tableau, Matplotlib, Excel Dashboards
+Data Handling: Data Cleaning, Data Wrangling, Exploratory Data Analysis (EDA)
+Other Tools: MS Excel (Advanced), Git & GitHub
 
 ## 🌐 Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/abhinav-sachdeva-6b7909318/)
