@@ -5,7 +5,7 @@
 
 🚀 Aspiring Data Analyst | Python | SQL | Excel | Data Visualization
 
-     I’m passionate about transforming data into actionable insights that drive decision-making. With a strong foundation in Python, SQL, and Data Analysis techniques, I enjoy exploring datasets, uncovering              patterns, and presenting results in a clear and impactful way.
+I’m passionate about transforming data into actionable insights that drive decision-making. With a strong foundation in Python, SQL, and Data Analysis techniques, I enjoy exploring datasets, uncovering              patterns, and presenting results in a clear and impactful way.
 
 🛠️ Skills & Tools
 
